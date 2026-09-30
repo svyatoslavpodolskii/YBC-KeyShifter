@@ -3,7 +3,7 @@
 A lightweight VST3 pitch and tempo calculator for varispeed sample work. Load a sample to estimate its BPM and key, then calculate the tempo and tuning produced by a pitch shift. Audio passes through unchanged; this is an analyzer and calculator, not a time-stretch effect.
 
 **Vendor:** YoungBonesClub  
-**Developed by:** YoungBonesClub:musiq  
+**Developed by:** Svyatoslav Podolskii
 **Formats:** VST3 and standalone app  
 **Current build target:** Windows x64
 
